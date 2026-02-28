@@ -1,0 +1,13 @@
+[{
+        "id": 1,
+        "titulo": "Estudar SQL",
+        "descricao": "Praticar JOIN e FOREIGN KEY",
+        "concluida": false
+    },
+    {
+        "id": 2,
+        "titulo": "Criar projeto para GitHub",
+        "descricao": "Subir sistema de biblioteca",
+        "concluida": true
+    }
+]
